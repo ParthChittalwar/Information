@@ -5,7 +5,7 @@ College: Priyadarshini College of Engineering, Nagpur
 Course: Engineering (CSE-related track)  
 
 ## Status
-Active student (2025–2027)
+Active student (2024–2028)
 
 ## Focus Areas
 - C / C++
