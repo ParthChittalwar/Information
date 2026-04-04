@@ -23,7 +23,7 @@ Full Stack Developer | C++ | Systems | Web | App | Game Development
 * Frontend: HTML, CSS, React
 * Backend: Node.js, Express
 * Tools: Git, GitHub, VS Code
-* Concepts: DSA, OOP, System Design
+* Concepts: DSA, OOP, 
 
 ---
 
