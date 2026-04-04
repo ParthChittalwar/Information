@@ -2,7 +2,7 @@
 
 Name: Parth Santosh Chittalwar  
 College: Priyadarshini College of Engineering, Nagpur  
-Course: Engineering (CSE-related track)  
+Course: Computer Technology 
 
 ## Status
 Active student (2024–2028)
