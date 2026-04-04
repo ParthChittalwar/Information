@@ -1,70 +1,48 @@
-# Profile
+# Parth Santosh Chittalwar
+### Full Stack Developer | C++ | Systems | Portfolio
 
-Name: Parth Santosh Chittalwar  
-College: Priyadarshini College of Engineering, Nagpur  
-Course: Computer Technology 
-
----
-
-## Status
-Active student (2024–2028)
-
-------------------------------------
-
-# ParthDev
-
-Full Stack Developer | C++ | Systems | Web | App | Game Development
+Priyadarshini College of Engineering, Nagpur  
+Computer Technology (2024–2028)
 
 ---
 
 ## Tech Stack
-
-* Languages: C, C++, JavaScript
-* Frontend: HTML, CSS, React
-* Backend: Node.js, Express
-* Tools: Git, GitHub, VS Code
-* Concepts: DSA, OOP, 
+Languages: C, C++, JavaScript  
+Frontend: HTML, CSS  
+Tools: Git, GitHub, VS Code  
+Core: DSA, OOP  
 
 ---
 
 ## What I Build
-
-* Web applications (frontend + backend)
-* Scalable full-stack systems
-* C++ based problem solving and logic-heavy systems
-* Games and interactive applications
+- Full stack web applications  
+- Logic-intensive systems in C++  
+- Interactive apps and basic game systems  
 
 ---
 
 ## Current Focus
-
-* Data Structures and Algorithms (C++)
-* Backend engineering
-* Building real-world full stack projects
-* Open source contributions
+- Data Structures and Algorithms (C++)  
+- Backend fundamentals  
+- Real-world project building  
+- Open source contribution  
 
 ---
 
 ## Projects
-
-* Full Stack Web Apps
-* C++ DSA Implementations
-* Game Development Projects
-* System Utilities
+- Full Stack Web Applications  
+- C++ DSA Implementations  
+- Game Development Experiments  
 
 ---
 
-
 ## Connect
+GitHub: https://github.com/ParthChittalwar  
+Alt: https://github.com/ParthDeve  
 
-* GitHub: https://github.com/ParthChittalwar
-
-* GitHub: https://github.com/ParthDeve
 ---
 
 ## Motto
-
-BUILD • CODE • INNOVATE
-
+Build • Code • Innovate
 
 
