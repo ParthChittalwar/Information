@@ -37,6 +37,7 @@ Core: DSA, OOP
 ---
 
 ## Connect
+Email: chittalwarparth@gmail.com
 GitHub: https://github.com/ParthChittalwar  
 Alt: https://github.com/ParthDeve  
 
