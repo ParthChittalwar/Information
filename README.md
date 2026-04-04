@@ -15,5 +15,4 @@ Active student (2024–2028)
 ## Purpose
 This repository is part of my GitHub.
 
-## College Email
-parthchittalwar_ct@pcenagpur.edu.in
+
